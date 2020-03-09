@@ -1,6 +1,6 @@
-# fx.css
+# FX.css
 
-> A complete set of CSS animation (FX, aka Special Effect`) utility for web UI.
+> (work in progress) A complete set of CSS animation (FX, aka Special Effect`) utility for web UI.
 
 `FX.css` is a library where you can play with a collection of pre-made css animations.
 

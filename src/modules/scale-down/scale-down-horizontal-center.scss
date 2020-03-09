@@ -1,0 +1,27 @@
+.scale-down-hor-center {
+  -webkit-animation: scale-down-hor-center 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+  animation: scale-down-hor-center 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+
+
+@-webkit-keyframes scale-down-hor-center {
+  0% {
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+  }
+  100% {
+    -webkit-transform: scaleX(0.3);
+    transform: scaleX(0.3);
+  }
+}
+
+@keyframes scale-down-hor-center {
+  0% {
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+  }
+  100% {
+    -webkit-transform: scaleX(0.3);
+    transform: scaleX(0.3);
+  }
+}

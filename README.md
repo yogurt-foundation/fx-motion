@@ -2,11 +2,11 @@
 
 > (work in progress) A complete set of CSS animation (FX, aka Special Effect`) utility for web UI.
 
-`FX.css` is a library where you can play with a collection of pre-made css animations.
+`{FX}.css` is a library where you can play with a collection of pre-made css animations.
 
-`FX.css` started out as a small side-project of mine. As I was increasingly using CSS animations, I thought it would come in handy to have them organised in a meaningful and accessible way so that they can be easily reused on different projects.
+`{FX}.css` started out as a small side-project of mine. As I was increasingly using CSS animations, I thought it would come in handy to have them organised in a meaningful and accessible way so that they can be easily reused on different projects.
 
-I have been using `FX.css` for a while now and I hope some of you will find it useful as well. It is still very much a work in progress and hopefully it will evolve over the time :)
+I have been using `{FX}.css` for a while now and I hope some of you will find it useful as well. It is still very much a work in progress and hopefully it will evolve over the time :)
 
 ## _setup
 

@@ -21,7 +21,7 @@ gulp.task('sass', () => {
 
 
 // ...watch
-const watchSrcScssPath = 'src/assets/scss/**/*.scss'
+const watchSrcScssPath = 'src/**/*.scss'
 gulp.task('watch', gulp.series([
 
     'sass',

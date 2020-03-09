@@ -1,4 +1,4 @@
-# FX.css
+# {FX}.css
 
 > (work in progress) A complete set of CSS animation (FX, aka Special Effect`) utility for web UI.
 

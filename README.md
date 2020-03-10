@@ -12,7 +12,7 @@ I have been using `{FX}.css` for a while now and I hope some of you will find it
 
 Below are my special collection of css animation made by me over the years in 6 different categories.
 
-#### basic fx
+#### basic
 
 - scale-up, scale-down, rotate, rotate-scale, rotate-90, flip, flip-scale, swing, slide, slide-back, slide-forward, slide-rotate, shadow-drop, shadow-pop, shadow-inset
 

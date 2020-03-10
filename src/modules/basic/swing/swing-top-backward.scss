@@ -1,0 +1,35 @@
+.fx\:swing-top-bck {
+  -webkit-animation: swing-top-bck 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+  animation: swing-top-bck 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+
+
+@-webkit-keyframes swing-top-bck {
+  0% {
+    -webkit-transform: rotateX(0);
+    transform: rotateX(0);
+    -webkit-transform-origin: top;
+    transform-origin: top;
+  }
+  100% {
+    -webkit-transform: rotateX(-180deg);
+    transform: rotateX(-180deg);
+    -webkit-transform-origin: top;
+    transform-origin: top;
+  }
+}
+
+@keyframes swing-top-bck {
+  0% {
+    -webkit-transform: rotateX(0);
+    transform: rotateX(0);
+    -webkit-transform-origin: top;
+    transform-origin: top;
+  }
+  100% {
+    -webkit-transform: rotateX(-180deg);
+    transform: rotateX(-180deg);
+    -webkit-transform-origin: top;
+    transform-origin: top;
+  }
+}

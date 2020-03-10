@@ -8,6 +8,36 @@
 
 I have been using `{FX}.css` for a while now and I hope some of you will find it useful as well. It is still very much a work in progress and hopefully it will evolve over the time :)
 
+## _todo
+
+Below are my special collection of css animation made by me over the years in 6 different categories.
+
+#### basic fx
+
+- scale-up, scale-down, rotate, rotate-scale, rotate-90, flip, flip-scale, swing, slide, slide-back, slide-forward, slide-rotate, shadow-drop, shadow-pop, shadow-inset
+
+#### entrances
+
+- scale-in, rotate-in, swirl-in, flip-in, slit-in, slide-in, slide-in-forward, slide-in-backward, slide-in-blurred, slide-in-elliptic, bounce-in, roll-in, roll-in-blurred, tilt-in, tilt-in-forward, swing-in, fade-in, puff-in, flicker-in
+
+#### exits
+
+- scale-out, rotate-out, swirl-out, flip-out, slit-out, slide-out, slide-out-backward, slide-out-forward, slide-out-blurred, slide-out-elliptic, bounce-out, roll-out, roll-out-blurred, swing-out, fade-out, puff-out, flicker-out
+
+#### text
+
+- tracking-in, tracking-out, focus-in, blur-out, flicker, shadow-drop, shadow-pop, pop-up
+
+#### attention
+
+- vibrate, flicker, shake, jello, wobble, bounce, pulsate, blink
+
+#### background
+
+- ken-burns, bg-pan, color-change
+
+---
+
 ## _setup
 
 ``` bash

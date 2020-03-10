@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="logo.png" width="500">
+</p>
+
 # {FX}.css
 
 > (work in progress) A complete set of CSS animation (FX, aka Special Effect`) utility for web UI.

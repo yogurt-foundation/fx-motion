@@ -14,11 +14,15 @@ I have been using `{FX}.css` for a while now and I hope some of you will find it
 
 ## _todo
 
-Below are my special collection of css animation made by me over the years in 6 different categories.
+Below are my special collection of css animation made by me over the years in 6 different main presets.
 
 #### basic
 
-- scale-up, scale-down, rotate, rotate-scale, rotate-90, flip, flip-scale, swing, slide, slide-back, slide-forward, slide-rotate, shadow-drop, shadow-pop, shadow-inset
+> **(!!)** this preset has completed
+
+- scale-up`(15)`, scale-down`(15)`, rotate`(21)`, rotate-scale`(10)`, rotate-90`(22)`, flip`(16)`, flip-scale`(8)`, swing`(16)`, slide`(8)`, slide-backward`(9)`, slide-forward`(9)`, slide-rotate`(12)`, shadow-drop`(11)`, shadow-pop`(4)`, shadow-inset`(11)`
+
+> (total) 15 modules, 187 effects
 
 #### entrances
 

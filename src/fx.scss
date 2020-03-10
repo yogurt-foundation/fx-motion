@@ -1,2 +1,22 @@
-@import 'modules/**/*.scss';
+//
+// {FX}.css all presets
+//
+
+// {basic}.preset
+@import 'modules/basic/presets';
+
+// {entrances}.preset
+// @import 'modules/entrances/presets';
+
+// {exits}.preset
+// @import 'modules/exits/presets';
+
+// {text}.preset
+// @import 'modules/text/presets';
+
+// {attention}.preset
+// @import 'modules/attention/presets';
+
+// {background}.preset
+// @import 'modules/background/presets';
 

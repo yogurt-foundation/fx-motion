@@ -47,8 +47,8 @@ Below are my special collection of css animation made by me over the years in 6 
 you can `enable` or `disable` the `presets` or `modules` that you don't want to included in the build with **comment out** them to suite your need,
 
 - to customize presets, look for file `fx.scss`.
-- to customize modules, look for file `_presets.scss`.
-- to customize effects, look for file `_modules.scss`.
+- to customize modules, look for file `_modules.scss`.
+- to customize effects, look for file `_effects.scss`.
 
 ---
 

@@ -68,7 +68,7 @@ let's take an example of **{basic}** preset pack that comes with **{flip}** effe
 </div>
 ```
 
-see all effect modules in [**{basic}** preset]().
+see all effect modules in [**{basic}** preset](https://github.com/loouislow81/fx.css/wiki).
 
 ---
 

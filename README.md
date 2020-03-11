@@ -56,13 +56,19 @@ you can `enable` or `disable` the `presets` or `modules` that you don't want to 
 
 > **(!!)** there are so much to do to make the class name easy to use.
 
-it always starting with a prefix `fx:` and following with the module name e.g. `flip:`, lastly the effect name e.g. `vertical-right`,
+the class name is always start with a prefix `fx:`, following with the module name e.g. `flip:`, lastly the effect name e.g. `vertical-left`.
+
+## _usage
+
+let's take an example of **{basic}** preset pack that comes with **{flip}** effect module,
 
 ```html
-<div class="fx:flip:vertical-right">
-  This is a text.
+<div class="fx:flip:vertical-left">
+  This is a text!
 </div>
 ```
+
+see all effect modules in [**{basic}** preset]().
 
 ---
 

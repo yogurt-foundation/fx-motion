@@ -56,7 +56,7 @@ you can `enable` or `disable` the `presets` or `modules` that you don't want to 
 
 > **(!!)** there are so much to do to make the class name easy to use.
 
-it always starting with a prefix `fx:` and then the module name e.g. `flip:`, lastly the effect name e.g. `vertical-right`,
+it always starting with a prefix `fx:` and following with the module name e.g. `flip:`, lastly the effect name e.g. `vertical-right`,
 
 ```html
 <div class="fx:flip:vertical-right">

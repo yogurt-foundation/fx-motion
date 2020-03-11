@@ -6,17 +6,13 @@
 
 > (work in progress) A complete set of CSS animation (FX, aka Special Effect`) utility for web UI.
 
-`{FX}.css` is a library where you can play with a collection of pre-made css animations.
-
 `{FX}.css` started out as a small side-project of mine. As I was increasingly using CSS animations, I thought it would come in handy to have them organised in a meaningful and accessible way so that they can be easily reused on different projects.
 
-I have been using `{FX}.css` for a while now and I hope some of you will find it useful as well. It is still very much a work in progress and hopefully it will evolve over the time :)
-
-## _todo
+I have been using `{FX}.css` for a while now and I hope some of you will find it useful as well. It is still very much a work in progress and hopefully it will evolve over the time.
 
 Below are my special collection of css animation made by me over the years in 6 different main presets.
 
-#### basic
+#### {basic}
 
 > **(!!)** this preset has completed
 
@@ -24,29 +20,53 @@ Below are my special collection of css animation made by me over the years in 6 
 
 > (total) 15 modules, 187 effects
 
-#### entrances
+#### todo/{entrances}
 
 - scale-in, rotate-in, swirl-in, flip-in, slit-in, slide-in, slide-in-forward, slide-in-backward, slide-in-blurred, slide-in-elliptic, bounce-in, roll-in, roll-in-blurred, tilt-in, tilt-in-forward, swing-in, fade-in, puff-in, flicker-in
 
-#### exits
+#### todo/{exits}
 
 - scale-out, rotate-out, swirl-out, flip-out, slit-out, slide-out, slide-out-backward, slide-out-forward, slide-out-blurred, slide-out-elliptic, bounce-out, roll-out, roll-out-blurred, swing-out, fade-out, puff-out, flicker-out
 
-#### text
+#### todo/{text}
 
 - tracking-in, tracking-out, focus-in, blur-out, flicker, shadow-drop, shadow-pop, pop-up
 
-#### attention
+#### todo/{attention}
 
 - vibrate, flicker, shake, jello, wobble, bounce, pulsate, blink
 
-#### background
+#### todo/{background}
 
 - ken-burns, bg-pan, color-change
 
 ---
 
-## _setup
+## _manage
+
+you can `enable` or `disable` the `presets` or `modules` that you don't want to included in the build with **comment out** them to suite your need,
+
+- to customize presets, look for file `fx.scss`.
+- to customize modules, look for file `_presets.scss`.
+- to customize effects, look for file `_modules.scss`.
+
+---
+
+## _introduction
+
+> **(!!)** there are so much to do to make the class name easy to use.
+
+it always starting with a prefix `fx:` and then the module name e.g. `flip:`, lastly the effect name e.g. `vertical-right`,
+
+```html
+<div class="fx:flip:vertical-right">
+  This is a text.
+</div>
+```
+
+---
+
+## _build
 
 ``` bash
 # install dependencies
@@ -60,22 +80,4 @@ $ npm run build
 
 MIT License
 
-Copyright (c) 2020 Loouis Low
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Copyright (c) Loouis Low

@@ -5,7 +5,6 @@
 <p align="left">
   <img src="https://badgen.net/github/release/loouislow81/fx.css">
   <img src="https://badgen.net/github/releases/loouislow81/fx.css">
-  <img src="https://badgen.net/github/assets-dl/loouislow81/fx.css">
   <img src="https://badgen.net/github/branches/loouislow81/fx.css">
   <img src="https://badgen.net/github/forks/loouislow81/fx.css">
   <img src="https://badgen.net/github/stars/loouislow81/fx.css">

@@ -98,6 +98,4 @@ $ npm run build
 
 ---
 
-MIT License
-
-Copyright (c) Loouis Low
+[MIT](https://github.com/loouislow81/fx.css/blob/master/LICENSE)

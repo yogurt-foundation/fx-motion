@@ -2,11 +2,26 @@
   <img src="logo.jpeg" width="500">
 </p>
 
+<p align="left">
+  <img src="https://badgen.net/github/release/loouislow81/fx.css">
+  <img src="https://badgen.net/github/releases/loouislow81/fx.css">
+  <img src="https://badgen.net/github/assets-dl/loouislow81/fx.css">
+  <img src="https://badgen.net/github/branches/loouislow81/fx.css">
+  <img src="https://badgen.net/github/forks/loouislow81/fx.css">
+  <img src="https://badgen.net/github/stars/loouislow81/fx.css">
+  <img src="https://badgen.net/github/watchers/loouislow81/fx.css">
+  <img src="https://badgen.net/github/tag/loouislow81/fx.css">
+  <img src="https://badgen.net/github/commits/loouislow81/fx.css">
+  <img src="https://badgen.net/github/last-commit/loouislow81/fx.css">
+  <img src="https://badgen.net/github/contributors/loouislow81/fx.css">
+  <img src="https://badgen.net/github/license/loouislow81/fx.css">
+</p>
+
 # {FX}.css
 
 > (work in progress) A complete set of CSS animation (FX, aka Special Effect`) utility for web UI.
 
-`{FX}.css` started out as a small side-project of mine. As I was increasingly using CSS animations, I thought it would come in handy to have them organised in a meaningful and accessible way so that they can be easily reused on different projects.
+`{FX}.css` started out as a small side-project of mine. As I was increasingly using CSS animations, I thought it would come in handy to have them organized in a meaningful and accessible way so that they can be easily reused on different projects.
 
 I have been using `{FX}.css` for a while now and I hope some of you will find it useful as well. It is still very much a work in progress and hopefully it will evolve over the time.
 

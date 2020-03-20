@@ -18,13 +18,13 @@
 
 # {FX}.css
 
-> (work in progress) A complete set of CSS animation (FX, aka Special Effect`) utility for web UI.
+> (work in progress) A complete set of CSS animations and filters (FX, aka Special Effect`) utility for web UI.
 
-`{FX}.css` started out as a small side-project of mine. As I was increasingly using CSS animations, I thought it would come in handy to have them organized in a meaningful and accessible way so that they can be easily reused on different projects.
+`{FX}.css` started out as a small side-project of mine. As I was increasingly using CSS animations and filters, I thought it would come in handy to have them organized in a meaningful and accessible way so that they can be easily reused on different projects.
 
 I have been using `{FX}.css` for a while now and I hope some of you will find it useful as well. It is still very much a work in progress and hopefully it will evolve over the time.
 
-Below are my special collection of css animation made by me over the years in 6 different main presets.
+Below are my special collection of css animation made by me over the years in 7 different main presets.
 
 #### {basic}
 
@@ -54,6 +54,14 @@ Below are my special collection of css animation made by me over the years in 6 
 
 - ken-burns, bg-pan, color-change
 
+#### {filter}
+
+> **(!!)** this preset has completed
+
+- 1977, aden, brannan, brooklyn, clarendon, earlybird, gingham, hudson, inkwell, kelvin, lark, lofi, maven, mayfair, moon, nashville, perpetua, reyes, rise, slumber, stinson, toaster, valencia, walden, willow, xpro2
+
+> (total) 26 modules, 26 effects
+
 ---
 
 ## _manage
@@ -74,7 +82,7 @@ the class name is always start with a prefix `fx:`, following with the module na
 
 ## _usage
 
-let's take an example of **{basic}** preset pack that comes with **{flip}** effect module,
+let's take an example of **{basic}** preset pack that comes with **{flip}** effect module, this add animation to the element,
 
 ```html
 <div class="fx:flip:vertical-left">
@@ -82,7 +90,18 @@ let's take an example of **{basic}** preset pack that comes with **{flip}** effe
 </div>
 ```
 
-see all effect modules in [**{basic}** preset](https://github.com/loouislow81/fx.css/wiki).
+let's take an example of **{filter}** preset pack that comes with **{lofi}** effect module, this add filter to the image,
+
+```html
+<img class="fx:filter:lofi"
+     src="...">
+
+<figure class="fx:filter:lofi">
+  <img src="...">
+</figure>
+```
+
+see all effect modules in [all presets](https://github.com/loouislow81/fx.css/wiki).
 
 ---
 

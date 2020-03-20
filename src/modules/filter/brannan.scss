@@ -1,0 +1,21 @@
+@import 'generator';
+
+@mixin brannan($filters...) {
+
+  @include filter-base;
+
+  filter: sepia(0.5) contrast(1.4) $filters;
+
+  &::after {
+    background-color: rgba(161, 44, 199, .31);
+    mix-blend-mode: lighten;
+  }
+
+  @content;
+}
+
+
+%brannan,
+.fx\:filter\:brannan {
+  @include brannan;
+}

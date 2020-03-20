@@ -1,0 +1,25 @@
+@import 'generator';
+
+@mixin lark($filters...) {
+
+  @include filter-base;
+
+  filter: contrast(.9) $filters;
+
+  &::after {
+    background: rgba(242, 242, 242, .8);
+    mix-blend-mode: darken;
+  }
+
+  &::before {
+    background: rgb(34, 37, 63);
+    mix-blend-mode: color-dodge;
+  }
+
+  @content;
+}
+
+%lark,
+.fx\:filter\:lark {
+  @include lark;
+}

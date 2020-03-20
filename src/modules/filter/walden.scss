@@ -1,0 +1,21 @@
+@import 'generator';
+
+@mixin walden($filters...) {
+
+  @include filter-base;
+
+  filter: brightness(1.1) hue-rotate(-10deg) sepia(.3) saturate(1.6) $filters;
+
+  &::after {
+    background: rgb(0, 68, 204);
+    mix-blend-mode: screen;
+    opacity: .3;
+  }
+
+  @content;
+}
+
+%walden,
+.fx\:filter\:walden {
+  @include walden;
+}

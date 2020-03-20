@@ -1,0 +1,21 @@
+@import 'generator';
+
+@mixin reyes($filters...) {
+
+  @include filter-base;
+
+  filter: sepia(.22) brightness(1.1) contrast(.85) saturate(.75) $filters;
+
+  &::after {
+    background: rgb(239, 205, 173);
+    mix-blend-mode: soft-light;
+    opacity: .5;
+  }
+
+  @content;
+}
+
+%reyes,
+.fx\:filter\:reyes {
+  @include reyes;
+}

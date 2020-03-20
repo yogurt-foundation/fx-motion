@@ -1,0 +1,20 @@
+@import 'generator';
+
+@mixin clarendon($filters...) {
+
+  @include filter-base;
+
+  filter: contrast(1.2) saturate(1.35) $filters;
+
+  &:before {
+    background: rgba(127, 187, 227, .2);
+    mix-blend-mode: overlay;
+  }
+
+  @content;
+}
+
+%clarendon,
+.fx\:filter\:clarendon {
+  @include clarendon;
+}

@@ -1,0 +1,20 @@
+@import 'generator';
+
+@mixin lofi($filters...) {
+
+  @include filter-base;
+
+  filter: saturate(1.1) contrast(1.5) $filters;
+
+  &::after {
+    background: radial-gradient(circle, transparent 70%, rgb(34, 34, 34) 150%);
+    mix-blend-mode: multiply;
+  }
+
+  @content;
+}
+
+%lofi,
+.fx\:filter\:lofi {
+  @include lofi;
+}

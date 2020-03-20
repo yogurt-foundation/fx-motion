@@ -1,0 +1,15 @@
+@import 'generator';
+
+@mixin inkwell($filters...) {
+
+  @include filter-base;
+
+  filter: sepia(.3) contrast(1.1) brightness(1.1) grayscale(1) $filters;
+
+  @content;
+}
+
+%inkwell,
+.fx\:filter\:inkwell {
+  @include inkwell;
+}

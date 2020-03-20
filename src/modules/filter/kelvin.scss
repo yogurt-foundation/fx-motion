@@ -1,0 +1,27 @@
+@import 'generator';
+
+@mixin kelvin($filters...) {
+
+  @include filter-base;
+
+  @if length($filters) > 0 {
+    filter: $filters;
+  }
+
+  &::after{
+    background: rgb(183, 125, 33);
+    mix-blend-mode: overlay;
+  }
+
+  &::before {
+    background: rgb(56, 44, 52);
+    mix-blend-mode: color-dodge;
+  }
+
+  @content;
+}
+
+%kelvin,
+.fx\:filter\:kelvin {
+  @include kelvin;
+}

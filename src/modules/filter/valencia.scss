@@ -1,0 +1,21 @@
+@import 'generator';
+
+@mixin valencia($filters...) {
+
+  @include filter-base;
+
+  filter: contrast(1.08) brightness(1.08) sepia(0.08) $filters;
+
+  &::after {
+    background: rgb(58, 3, 57);
+    mix-blend-mode: exclusion;
+    opacity: .5;
+  }
+
+  @content;
+}
+
+%valencia,
+.fx\:filter\:valencia {
+  @include valencia;
+}

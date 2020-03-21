@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="fx.css_logo.jpeg" width="500">
+  <img src="fx.css_logo.jpg" width="500">
 </p>
 
 <p align="left">

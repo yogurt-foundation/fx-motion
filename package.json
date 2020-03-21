@@ -1,6 +1,6 @@
 {
   "name": "fx.css",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A complete set of CSS animation (FX, aka Special Effect) utility for web UI.",
   "main": "index.js",
   "scripts": {

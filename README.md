@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="fx.css_logo.jpeg" width="400">
+  <img src="fx.css_logo.jpeg" width="300">
 </p>
 
 <p align="left">
@@ -15,8 +15,6 @@
   <img src="https://badgen.net/github/contributors/loouislow81/fx.css">
   <img src="https://badgen.net/github/license/loouislow81/fx.css">
 </p>
-
-# {FX}.css
 
 > (work in progress) A complete set of CSS animations and filters (FX, aka Special Effect`) utility for web UI.
 

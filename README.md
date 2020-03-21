@@ -1,8 +1,8 @@
-<p align="left">
-  <img src="fx.css_logo.jpg" width="500">
+<p align="center">
+  <img src="fx.css_logo.jpeg" width="500">
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://badgen.net/github/release/loouislow81/fx.css">
   <img src="https://badgen.net/github/releases/loouislow81/fx.css">
   <img src="https://badgen.net/github/branches/loouislow81/fx.css">
@@ -28,10 +28,6 @@ Below are my special collection of css animation made by me over the years in 7 
 
 ---
 
-<p align="left">
-  <img src="fx.css_basic_preset.jpeg" width="300">
-</p>
-
 #### {basic}
 
 > **(!!)** this preset has completed
@@ -39,10 +35,6 @@ Below are my special collection of css animation made by me over the years in 7 
 - scale-up`(15)`, scale-down`(15)`, rotate`(21)`, rotate-scale`(10)`, rotate-90`(22)`, flip`(16)`, flip-scale`(8)`, swing`(16)`, slide`(8)`, slide-backward`(9)`, slide-forward`(9)`, slide-rotate`(12)`, shadow-drop`(11)`, shadow-pop`(4)`, shadow-inset`(11)`
 
 > (total) 15 modules, 187 effects
-
-<p align="left">
-  <img src="fx.css_filter_preset.jpeg" width="300">
-</p>
 
 #### {filter}
 

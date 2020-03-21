@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="fx.css_logo.jpeg" width="500">
+<p align="left">
+  <img src="fx.css_logo.jpeg" width="400">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://badgen.net/github/release/loouislow81/fx.css">
   <img src="https://badgen.net/github/releases/loouislow81/fx.css">
   <img src="https://badgen.net/github/branches/loouislow81/fx.css">

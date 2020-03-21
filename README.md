@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="logo.jpeg" width="500">
+  <img src="fx.css_logo.jpeg" width="500">
 </p>
 
 <p align="left">
@@ -26,6 +26,12 @@ I have been using `{FX}.css` for a while now and I hope some of you will find it
 
 Below are my special collection of css animation made by me over the years in 7 different main presets.
 
+---
+
+<p align="left">
+  <img src="fx.css_basic_preset.jpeg" width="300">
+</p>
+
 #### {basic}
 
 > **(!!)** this preset has completed
@@ -33,6 +39,18 @@ Below are my special collection of css animation made by me over the years in 7 
 - scale-up`(15)`, scale-down`(15)`, rotate`(21)`, rotate-scale`(10)`, rotate-90`(22)`, flip`(16)`, flip-scale`(8)`, swing`(16)`, slide`(8)`, slide-backward`(9)`, slide-forward`(9)`, slide-rotate`(12)`, shadow-drop`(11)`, shadow-pop`(4)`, shadow-inset`(11)`
 
 > (total) 15 modules, 187 effects
+
+<p align="left">
+  <img src="fx.css_filter_preset.jpeg" width="300">
+</p>
+
+#### {filter}
+
+> **(!!)** this preset has completed
+
+- 1977, aden, brannan, brooklyn, clarendon, earlybird, gingham, hudson, inkwell, kelvin, lark, lofi, maven, mayfair, moon, nashville, perpetua, reyes, rise, slumber, stinson, toaster, valencia, walden, willow, xpro2
+
+> (total) 26 modules, 26 effects
 
 #### todo/{entrances}
 
@@ -53,14 +71,6 @@ Below are my special collection of css animation made by me over the years in 7 
 #### todo/{background}
 
 - ken-burns, bg-pan, color-change
-
-#### {filter}
-
-> **(!!)** this preset has completed
-
-- 1977, aden, brannan, brooklyn, clarendon, earlybird, gingham, hudson, inkwell, kelvin, lark, lofi, maven, mayfair, moon, nashville, perpetua, reyes, rise, slumber, stinson, toaster, valencia, walden, willow, xpro2
-
-> (total) 26 modules, 26 effects
 
 ---
 

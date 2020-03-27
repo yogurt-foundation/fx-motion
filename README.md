@@ -103,7 +103,7 @@ let's take an example of **{filter}** preset pack that comes with **{lofi}** eff
 </figure>
 ```
 
-see all effect modules in [all presets](https://github.com/yogurt-foundation/yogurt-fx/wiki).
+see all effect modules in [all presets](https://github.com/loouislow81/fx.css/wiki).
 
 ---
 

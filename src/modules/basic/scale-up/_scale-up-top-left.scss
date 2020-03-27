@@ -1,3 +1,12 @@
+/**
+ * @module: _scale-up-top-left.scss
+ *
+ * @repo: https://github.com/yogurt-foundation/yogurt-fx
+ * @author: Loouis Low (loouis@gmail.com)
+ * @copyright: Loouis Low (loouis@gmail.com)
+ * @license: MIT
+ */
+
 .fx\:scale-up\:top-left {
   -webkit-animation: scale-up-tl 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
   animation: scale-up-tl 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;

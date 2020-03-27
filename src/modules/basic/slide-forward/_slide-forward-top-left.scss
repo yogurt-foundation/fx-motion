@@ -1,3 +1,12 @@
+/**
+ * @module: _slide-forward-top-left.scss
+ *
+ * @repo: https://github.com/yogurt-foundation/yogurt-fx
+ * @author: Loouis Low (loouis@gmail.com)
+ * @copyright: Loouis Low (loouis@gmail.com)
+ * @license: MIT
+ */
+
 .fx\:slide-forward\:top-left {
   -webkit-animation: slide-fwd-tl 0.45s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
   animation: slide-fwd-tl 0.45s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;

@@ -1,3 +1,12 @@
+/**
+ * @module: _rotate-vertical-right.scss
+ *
+ * @repo: https://github.com/yogurt-foundation/yogurt-fx
+ * @author: Loouis Low (loouis@gmail.com)
+ * @copyright: Loouis Low (loouis@gmail.com)
+ * @license: MIT
+ */
+
 .fx\:rotate\:verti-right {
   -webkit-animation: rotate-vert-right 0.5s cubic-bezier(0.645, 0.045, 0.355, 1.000) both;
   animation: rotate-vert-right 0.5s cubic-bezier(0.645, 0.045, 0.355, 1.000) both;

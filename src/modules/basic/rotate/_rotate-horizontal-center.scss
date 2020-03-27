@@ -1,3 +1,12 @@
+/**
+ * @module: _rotate-horizontal-center.scss
+ *
+ * @repo: https://github.com/yogurt-foundation/yogurt-fx
+ * @author: Loouis Low (loouis@gmail.com)
+ * @copyright: Loouis Low (loouis@gmail.com)
+ * @license: MIT
+ */
+
 .fx\:rotate\:horizontal-center {
   -webkit-animation: rotate-hor-center 0.5s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
   animation: rotate-hor-center 0.5s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;

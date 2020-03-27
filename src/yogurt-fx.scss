@@ -1,0 +1,42 @@
+/**
+* Yogurt {FX}.css
+*
+* A library where you can play with a collection of pre-made
+* CSS animations and filters.
+*
+* @module: yogurt-fx.scss
+*
+* @repo: https://github.com/yogurt-foundation/yogurt-fx
+* @author: Loouis Low (loouis@gmail.com)
+* @copyright: Loouis Low (loouis@gmail.com)
+* @license: MIT
+*/
+
+/*
+ * {FX}.css all presets
+ */
+
+/*! yogurt-fx.css v1.0.0-proto | MIT License | gtihub.com/yogurt-foundation/yogurt-fx */
+
+// {basic}.preset
+@import 'modules/basic/modules';
+
+// {entrances}.preset
+// @import 'modules/entrances/modules';
+
+// {exits}.preset
+// @import 'modules/exits/modules';
+
+// {text}.preset
+// @import 'modules/text/modules';
+
+// {attention}.preset
+// @import 'modules/attention/modules';
+
+// {background}.preset
+// @import 'modules/background/modules';
+
+// {filter}.preset
+@import 'modules/filter/modules';
+
+/*! yogurt-fx.css v1.0.0-proto | MIT License | gtihub.com/yogurt-foundation/yogurt-fx */

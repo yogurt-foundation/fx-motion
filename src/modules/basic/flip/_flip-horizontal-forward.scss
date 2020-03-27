@@ -1,3 +1,12 @@
+/**
+ * @module: _flip-horizontal-forward.scss
+ *
+ * @repo: https://github.com/yogurt-foundation/yogurt-fx
+ * @author: Loouis Low (loouis@gmail.com)
+ * @copyright: Loouis Low (loouis@gmail.com)
+ * @license: MIT
+ */
+
 .fx\:flip\:horizontal-forward {
   -webkit-animation: flip-horizontal-fwd 0.4s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
   animation: flip-horizontal-fwd 0.4s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;

@@ -1,17 +1,17 @@
 {
-  "name": "fx.css",
-  "version": "0.0.2",
-  "description": "A complete set of CSS animation (FX, aka Special Effect) utility for web UI.",
-  "main": "index.js",
+  "name": "yogurt-fx",
+  "version": "1.0.0",
+  "description": "`A library where you can play with a collection of pre-made CSS animations and filters.",
+  "main": "",
   "scripts": {
     "gulp": "gulp",
     "watch": "gulp watch",
     "build": "npm run gulp sass"
   },
   "keywords": [
-    "animation-library",
-    "animation-css",
-    "special-effect"
+    "css-animation-library",
+    "css-filter-library",
+    "special-effects"
   ],
   "author": "Loouis Low <loouis@gmail.com>",
   "license": "MIT",

@@ -1,3 +1,12 @@
+/**
+ * @module: _scale-down-bottom-right.scss
+ *
+ * @repo: https://github.com/yogurt-foundation/yogurt-fx
+ * @author: Loouis Low (loouis@gmail.com)
+ * @copyright: Loouis Low (loouis@gmail.com)
+ * @license: MIT
+ */
+
 .fx\:scale-down\:bottom-right {
   -webkit-animation: scale-down-br 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
   animation: scale-down-br 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;

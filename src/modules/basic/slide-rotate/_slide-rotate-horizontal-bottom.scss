@@ -1,3 +1,12 @@
+/**
+ * @module: _slide-rotate-horizontal-bottom.scss
+ *
+ * @repo: https://github.com/yogurt-foundation/yogurt-fx
+ * @author: Loouis Low (loouis@gmail.com)
+ * @copyright: Loouis Low (loouis@gmail.com)
+ * @license: MIT
+ */
+
 .fx\:slide-rotate\:horizontal-bottom {
   -webkit-animation: slide-rotate-hor-bottom 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
   animation: slide-rotate-hor-bottom 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;

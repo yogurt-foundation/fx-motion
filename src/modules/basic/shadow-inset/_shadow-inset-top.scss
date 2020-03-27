@@ -1,3 +1,12 @@
+/**
+ * @module: _shadow-inset-top.scss
+ *
+ * @repo: https://github.com/yogurt-foundation/yogurt-fx
+ * @author: Loouis Low (loouis@gmail.com)
+ * @copyright: Loouis Low (loouis@gmail.com)
+ * @license: MIT
+ */
+
 .fx\:shadow-inset\:top {
   -webkit-animation: shadow-inset-top 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
   animation: shadow-inset-top 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;

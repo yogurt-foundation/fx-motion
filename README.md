@@ -1,24 +1,26 @@
 <p align="left">
-  <img src="fx.css_logo.jpeg" width="300">
+  <img src="logo.jpeg" width="300">
 </p>
 
 <p align="left">
-  <img src="https://badgen.net/github/release/loouislow81/fx.css">
-  <img src="https://badgen.net/github/releases/loouislow81/fx.css">
-  <img src="https://badgen.net/github/branches/loouislow81/fx.css">
-  <img src="https://badgen.net/github/forks/loouislow81/fx.css">
-  <img src="https://badgen.net/github/stars/loouislow81/fx.css">
-  <img src="https://badgen.net/github/watchers/loouislow81/fx.css">
-  <img src="https://badgen.net/github/tag/loouislow81/fx.css">
-  <img src="https://badgen.net/github/commits/loouislow81/fx.css">
-  <img src="https://badgen.net/github/last-commit/loouislow81/fx.css">
-  <img src="https://badgen.net/github/contributors/loouislow81/fx.css">
-  <img src="https://badgen.net/github/license/loouislow81/fx.css">
+  <img src="https://badgen.net/github/release/yogurt-foundation/yogurt-fx">
+  <img src="https://badgen.net/github/releases/yogurt-foundation/yogurt-fx">
+  <img src="https://badgen.net/github/branches/yogurt-foundation/yogurt-fx">
+  <img src="https://badgen.net/github/forks/yogurt-foundation/yogurt-fx">
+  <img src="https://badgen.net/github/stars/yogurt-foundation/yogurt-fx">
+  <img src="https://badgen.net/github/watchers/yogurt-foundation/yogurt-fx">
+  <img src="https://badgen.net/github/tag/yogurt-foundation/yogurt-fx">
+  <img src="https://badgen.net/github/commits/yogurt-foundation/yogurt-fx">
+  <img src="https://badgen.net/github/last-commit/yogurt-foundation/yogurt-fx">
+  <img src="https://badgen.net/github/contributors/yogurt-foundation/yogurt-fx">
+  <img src="https://badgen.net/github/license/yogurt-foundation/yogurt-fx">
 </p>
 
-> (work in progress) A complete set of CSS animations and filters (FX, aka Special Effect`) utility for web UI.
+> A complete set of CSS animations and filters (FX, aka Special Effect`) utility for web UI.
 
-`{FX}.css` started out as a small side-project of mine. As I was increasingly using CSS animations and filters, I thought it would come in handy to have them organized in a meaningful and accessible way so that they can be easily reused on different projects.
+> Work in progress
+
+Yogurt `{FX}.css` started out as a small side-project of mine. As I was increasingly using CSS animations and filters, I thought it would come in handy to have them organized in a meaningful and accessible way so that they can be easily reused on different projects.
 
 I have been using `{FX}.css` for a while now and I hope some of you will find it useful as well. It is still very much a work in progress and hopefully it will evolve over the time.
 
@@ -101,7 +103,7 @@ let's take an example of **{filter}** preset pack that comes with **{lofi}** eff
 </figure>
 ```
 
-see all effect modules in [all presets](https://github.com/loouislow81/fx.css/wiki).
+see all effect modules in [all presets](https://github.com/yogurt-foundation/yogurt-fx/wiki).
 
 ---
 
@@ -117,4 +119,6 @@ $ npm run build
 
 ---
 
-[MIT](https://github.com/loouislow81/fx.css/blob/master/LICENSE)
+[MIT](https://github.com/yogurt-foundation/yogurt-fx/blob/master/LICENSE)
+
+

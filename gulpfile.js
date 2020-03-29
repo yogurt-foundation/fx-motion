@@ -8,7 +8,7 @@ const sassGlob = require('gulp-sass-glob')
 
 
 // ...minify/preprocess scss
-const srcScssPath = 'src/yogurt-fx.scss'
+const srcScssPath = 'src/fx-motion.scss'
 const distCssPath = 'dist'
 gulp.task('sass', () => {
   return gulp.src(srcScssPath)

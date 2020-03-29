@@ -1,7 +1,7 @@
 {
-  "name": "yogurt-fx",
+  "name": "fx-motion",
   "version": "1.0.0",
-  "description": "`A library where you can play with a collection of pre-made CSS animations and filters.",
+  "description": "A library where you can play with a collection of pre-made CSS animations",
   "main": "",
   "scripts": {
     "gulp": "gulp",
@@ -10,7 +10,6 @@
   },
   "keywords": [
     "css-animation-library",
-    "css-filter-library",
     "special-effects"
   ],
   "author": "Loouis Low <loouis@gmail.com>",

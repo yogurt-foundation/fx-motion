@@ -6,6 +6,9 @@
   <img src="https://badgen.net/github/release/yogurt-foundation/fx-motion">
   <img src="https://badgen.net/github/releases/yogurt-foundation/fx-motion">
   <img src="https://badgen.net/github/branches/yogurt-foundation/fx-motion">
+  <img src="https://badgen.net/npm/dw/fx-motion">
+  <img src="https://badgen.net/npm/dm/fx-motion">
+  <img src="https://badgen.net/npm/dy/fx-motion">
   <img src="https://badgen.net/github/forks/yogurt-foundation/fx-motion">
   <img src="https://badgen.net/github/stars/yogurt-foundation/fx-motion">
   <img src="https://badgen.net/github/watchers/yogurt-foundation/fx-motion">

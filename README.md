@@ -86,7 +86,17 @@ let's take an example of **{basic}** preset pack that comes with **{flip}** effe
 
 ---
 
-## _build
+## _using via cdn
+
+```html
+<link defer href="https://unpkg.com/fx-motion@1.0.0/dist/fx-motion.css" 
+      rel="stylesheet"
+      rel="preload"
+      as="style"
+      media="all">
+```
+
+## _using via build
 
 ``` bash
 # install dependencies
